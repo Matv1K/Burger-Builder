@@ -1,3 +1,3 @@
-const Add = (props) => props.children;
+const Add = props => props.children;
 
 export default Add;
